@@ -1,0 +1,20 @@
+<"loadgoldatom100proton1000neutron1000electron1000synchrofussio"
+<"loadgoldatomfussiotodorun"
+<"load100goldatom100%T49bonus"
+<"loadgoldatomfussioliquidformtodo"
+<"runloadreloadgoldatomfussioresourceattodoatmaximum"
+<"loadgoldatomfussioresourceatmaximumwith1000protons1000neutrons1000electronssynshrotodoattimewithplace"
+<"loadexpandgoldatomlike<div fussio: functionattimeatlocation"
+<"div load: bonusT49atXfgoldussiowithgameinterfaceandfunctiontodowithcommandloadatomprotonneutronandelectron"
+<"loadgoldatomexpandedwith1000neutrons1000protons1000electronsliquiedfussiolikepacthWoTClienttodobonusforT49"
+<"loadgoldatompatchnameDonLonDonfussiowithWoTClientruntodo"
+<"loadatomneutronelectronprotonfussiogoldpatchwithnameDonLonDonforrealtimegamesessiontodo"
+<"loadrepeatreloadfussionloadreloadruntodo"apply: function apply()
+arguments: null
+bind: function bind()
+call: function call()
+caller: null
+constructor: function Function()
+isGenerator: function isGenerator(goldatomfussionload)
+length
+name
