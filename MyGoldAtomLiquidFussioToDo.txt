@@ -18,3 +18,4 @@ constructor: function Function()
 isGenerator: function isGenerator(goldatomfussionload)
 length
 name
+/COPY:DAT /R:1000000 /W:30"loadatomupgradenaturalautomationsolutionruntoloadrodo"
